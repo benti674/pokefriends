@@ -18,3 +18,11 @@ git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 npm install
 npm run dev
+
+### 🔑 Environment Variables
+
+Create a `.env` file in the root of the project with the following:
+
+```env
+VITE_SUPABASE_URL=your-supabase-url
+VITE_SUPABASE_ANON_KEY=your-anon-key
