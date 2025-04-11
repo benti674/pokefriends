@@ -72,15 +72,18 @@ Netlify
 Simply connect your GitHub repo and add your .env variables through the deployment dashboard.
 
 🧾 Environment Variables
+
 Variable	Description
 VITE_SUPABASE_URL	Your Supabase project URL
 VITE_SUPABASE_ANON_KEY	Public API key for frontend use
+
 Do not commit the .env file. It’s already in .gitignore — you're good!
 
 📄 License
 This project is licensed under the MIT License — you’re free to use, modify, and share it.
 
 👥 Contributing
+
 Fork the repo
 
 Clone it locally
