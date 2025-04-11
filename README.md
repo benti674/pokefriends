@@ -1,7 +1,11 @@
-# ⚡ Bolt AI App
+# ⚡ Meet Pokefriends!
 
-A fast, AI-assisted web app built using [Bolt.new](https://bolt.new), React, and Supabase. Designed to prototype and deploy intelligent features quickly using modern tools like TypeScript and serverless functions.
+Pokefriends is a fun way to take your photos and turn them into pokemon cards! 
 
+This app was developed using Bolt.new as a project for ENTI 674 at the University of Calgary.
+Contributors: Benjamin Teetzel, Ana Dragomir, Halie Ferguson, and Joshua Magcawas
+
+This README was written by ChatGPT
 ---
 
 ## 🧠 Tech Stack
